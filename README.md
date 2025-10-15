@@ -1,6 +1,6 @@
 # Deep Learning com PyTorch (Alura)
 
-Este repositório reúne os notebooks utilizados na formação **Deep learning com Pytorch** da Alura. O curso é voltado a pessoas que já possuem base em data science e machine learning e desejam mergulhar em redes neurais profundas, passando por construção, treinamento e aplicações em visão e processamento de texto.
+Este repositório reúne os notebooks utilizados no curso **Redes Neurais** da  formação **Deep learning com Pytorch** da Alura.
 
 ## Estrutura dos notebooks
 
