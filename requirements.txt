@@ -1,4 +1,5 @@
 jupyter
+pandas
 matplotlib
 numpy
 scikit-learn
